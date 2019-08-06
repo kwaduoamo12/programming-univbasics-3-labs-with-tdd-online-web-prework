@@ -3,4 +3,4 @@ second_number = 4
 sum = 10 
 different = 2
 product = 24
-quotient = 6 % 2
+quotient = 1 
